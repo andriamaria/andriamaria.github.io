@@ -32,9 +32,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 video {
-		width: 50%;
+		width: 70%;
 		height: auto;
-		align-items: center;
 	}
 
 body {
